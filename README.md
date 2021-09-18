@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitin-ratnakaran
-- 👀 I’m interested in AWS, Kubernetes, Openshift, Java, Microservices, Machine Learning, Python
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on AWS
+- 👀 I’m interested in AWS, Kubernetes, Openshift, Java, Microservices, Quarkus, Hyperledger Fabric
+- 🌱 I’m currently learning AWS, Kubernetes and Hyperledger Fabric
+- 💞️ I’m looking to collaborate on AWS, Quarkus, Hyperledger
 - 📫 How to reach me : nitin.ratnakaran@gmail.com
 
 <!---
