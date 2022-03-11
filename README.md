@@ -2,10 +2,11 @@ Hi 👋
 
 I'm Nitin, an Application Architect, technology enthusiast, noob blogger and life-long learner. I specialize in designing and architecting modern software systems. I have mainly done work in Java microservices using Spring Boot. I have also worked on Cloud platforms like AWS and Openshift.
 
-You can checkout my blog : https://nitin-ratnakaran.github.io/
-You can reach me at : nitin.ratnakaran@gmail.com
+**Connect**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nitin-ratnakaran/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitinratnakaran/)
+[![Email Badge](https://img.shields.io/badge/Email-nitin.ratnakaran@gmail.com-blue?style=for-the-badge&logo=mail.ru)](mailto:nitin.ratnakaran@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/Blog-Tech%20Bytez-blue?style=for-the-badge&logo=microsoftacademic)](https://nitin-ratnakaran.github.io/)
 
 
 - 👀 I’m interested in AWS, Kubernetes, Openshift, Java, Microservices, Quarkus, Hyperledger Fabric
