@@ -11,8 +11,8 @@ I'm Nitin, an Application Architect, technology enthusiast, noob blogger and lif
 
 **Skills:**
 
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![AWS](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
+![Java](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=5382a1)
+![AWS](https://img.shields.io/badge/-AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=black&color=ff9900)
 
 
 **Meta:**
