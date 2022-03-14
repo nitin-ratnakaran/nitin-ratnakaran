@@ -11,22 +11,20 @@ I'm Nitin, an Application Architect, technology enthusiast, noob blogger and lif
 
 **Skills:**
 
-![TOGAF](https://img.shields.io/badge/-TOGAF-blue?style=for-the-badge&logo=curl&logoColor=white&labelColor=000C66&color=34f5c5)
+![TOGAF](https://img.shields.io/badge/-TOGAF-blue?style=for-the-badge&logo=curl&logoColor=white&labelColor=3B3B3B&color=34f5c5)
 
 ![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4c5270&color=ff9900)
 ![Redhat_Openshift](https://img.shields.io/badge/-Redhat_Openshift-blue?style=for-the-badge&logo=redhatopenshift&logoColor=white&labelColor=4c5270&color=EE0000)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=4c5270&color=326CE5)
 
-![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=3B3B3B&color=5382a1)
-![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=spring&logoColor=white&labelColor=3B3B3B&color=6DB33F)
-![Quarkus](https://img.shields.io/badge/-Quarkus-blue?style=for-the-badge&logo=quarkus&logoColor=white&labelColor=3B3B3B&color=4695EB)
+![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=000000&color=5382a1)
+![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000&color=6DB33F)
+![Quarkus](https://img.shields.io/badge/-Quarkus-blue?style=for-the-badge&logo=quarkus&logoColor=white&labelColor=000000&color=4695EB)
 
-![Sql_Server](https://img.shields.io/badge/-Sql_Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=3D550C&color=CC2927)
-![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=3D550C&color=47A248)
+![Sql_Server](https://img.shields.io/badge/-Sql_Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=233d22&color=CC2927)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=233d22&color=47A248)
 
 ![Apache_Kafka](https://img.shields.io/badge/-Apache_Kafka-blue?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=a45c40&color=231F20)
-
-
 
 
 **Meta:**
