@@ -11,9 +11,21 @@ I'm Nitin, an Application Architect, technology enthusiast, noob blogger and lif
 
 **Skills:**
 
-![Java](https://img.shields.io/badge/Code-Java-blue?style=for-the-badge&logo=java&logoColor=white&color=5382a1)
-![Spring](https://img.shields.io/badge/Code-Spring-blue?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)
-![AWS](https://img.shields.io/badge/Cloud-AWS-blue?style=for-the-badge&logo=amazonaws&logoColor=white&color=ff9900)
+![TOGAF](https://img.shields.io/badge/-TOGAF-blue?style=for-the-badge&logo=curl&logoColor=white&labelColor=000C66&color=34f5c5)
+
+![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=4c5270&color=ff9900)
+![Redhat_Openshift](https://img.shields.io/badge/-Redhat_Openshift-blue?style=for-the-badge&logo=redhatopenshift&logoColor=white&labelColor=4c5270&color=EE0000)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=4c5270&color=326CE5)
+
+![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=white&labelColor=3B3B3B&color=5382a1)
+![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&logo=spring&logoColor=white&labelColor=3B3B3B&color=6DB33F)
+![Quarkus](https://img.shields.io/badge/-Quarkus-blue?style=for-the-badge&logo=quarkus&logoColor=white&labelColor=3B3B3B&color=4695EB)
+
+![Sql_Server](https://img.shields.io/badge/-Sql_Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=3D550C&color=CC2927)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=3D550C&color=47A248)
+
+![Apache_Kafka](https://img.shields.io/badge/-Apache_Kafka-blue?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=a45c40&color=231F20)
+
 
 
 
